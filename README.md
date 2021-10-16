@@ -1,7 +1,7 @@
 # KM-H-Meters-MKWii
 
 Theese files should be used in either OBS or a video editor and put beside or underneath the KM/H meter in the video. If you need a KM/H meter, get it here.
-You can also watch my video on this here: https://youtu.be/9yRhNOhT9vM
+You can also watch my video on this here: https://youtu.be/9yRhNOhT9vM. The speed-o-meter for dolphin emulayor or wii is by stebler. The images that say KM/H are from Cederic The Gaming Drummer and The CTGP Records Discord Server.
 
 NTSC-U:
 c25ddb7c 00000008
